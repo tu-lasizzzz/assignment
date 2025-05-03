@@ -1,0 +1,4 @@
+Flask==2.2.2
+Werkzeug==2.2.2
+boto3==1.28.57
+textblob== 0.19.0
